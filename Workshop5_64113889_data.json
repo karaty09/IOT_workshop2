@@ -1,0 +1,262 @@
+{
+  "sensors": [
+    {
+      "humidity": 29,
+      "temperature": 24.789999,
+      "timestap": 15026,
+      "id": 1
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.29999924,
+      "timestamp": 45998,
+      "id": 2
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.10000038,
+      "timestamp": 61445,
+      "id": 3
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.29999924,
+      "timestamp": 77001,
+      "id": 4
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.39999962,
+      "timestamp": 92122,
+      "id": 5
+    },
+    {
+      "humidity": 62,
+      "temperature": 22.39999962,
+      "timestamp": 107517,
+      "id": 6
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.60000038,
+      "timestamp": 122862,
+      "id": 7
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.39999962,
+      "timestamp": 138066,
+      "id": 8
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.39999962,
+      "timestamp": 153708,
+      "id": 9
+    },
+    {
+      "humidity": 62,
+      "temperature": 22.29999924,
+      "timestamp": 169131,
+      "id": 10
+    },
+    {
+      "humidity": 62,
+      "temperature": 22.29999924,
+      "timestamp": 184331,
+      "id": 11
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.20000076,
+      "timestamp": 199600,
+      "id": 12
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.20000076,
+      "timestamp": 214757,
+      "id": 13
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.20000076,
+      "timestamp": 232822,
+      "id": 14
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.20000076,
+      "timestamp": 248623,
+      "id": 15
+    },
+    {
+      "humidity": 65,
+      "temperature": 22.29999924,
+      "timestamp": 263857,
+      "id": 16
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.29999924,
+      "timestamp": 282052,
+      "id": 17
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.20000076,
+      "timestamp": 297334,
+      "id": 18
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.20000076,
+      "timestamp": 312663,
+      "id": 19
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.20000076,
+      "timestamp": 327821,
+      "id": 20
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.20000076,
+      "timestamp": 342954,
+      "id": 21
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.20000076,
+      "timestamp": 360593,
+      "id": 22
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.20000076,
+      "timestamp": 375765,
+      "id": 23
+    },
+    {
+      "humidity": 65,
+      "temperature": 22.20000076,
+      "timestamp": 393888,
+      "id": 24
+    },
+    {
+      "humidity": 64,
+      "temperature": 22.39999962,
+      "timestamp": 408971,
+      "id": 25
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.5,
+      "timestamp": 424093,
+      "id": 26
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.60000038,
+      "timestamp": 439388,
+      "id": 27
+    },
+    {
+      "humidity": 62,
+      "temperature": 22.70000076,
+      "timestamp": 457263,
+      "id": 28
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.70000076,
+      "timestamp": 472570,
+      "id": 29
+    },
+    {
+      "humidity": 61,
+      "temperature": 22.70000076,
+      "timestamp": 488093,
+      "id": 30
+    },
+    {
+      "humidity": 62,
+      "temperature": 22.70000076,
+      "timestamp": 15027,
+      "id": 31
+    },
+    {
+      "humidity": 62,
+      "temperature": 22.70000076,
+      "timestamp": 31606,
+      "id": 32
+    },
+    {
+      "humidity": 61,
+      "temperature": 22.70000076,
+      "timestamp": 50671,
+      "id": 33
+    },
+    {
+      "humidity": 61,
+      "temperature": 22.60000038,
+      "timestamp": 65903,
+      "id": 34
+    },
+    {
+      "humidity": 61,
+      "temperature": 22.5,
+      "timestamp": 81201,
+      "id": 35
+    },
+    {
+      "humidity": 62,
+      "temperature": 22.60000038,
+      "timestamp": 96421,
+      "id": 36
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.5,
+      "timestamp": 114476,
+      "id": 37
+    },
+    {
+      "humidity": 61,
+      "temperature": 22.5,
+      "timestamp": 129740,
+      "id": 38
+    },
+    {
+      "humidity": 66,
+      "temperature": 22.5,
+      "timestamp": 144878,
+      "id": 39
+    },
+    {
+      "humidity": 62,
+      "temperature": 22.5,
+      "timestamp": 160021,
+      "id": 40
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.5,
+      "timestamp": 175385,
+      "id": 41
+    },
+    {
+      "humidity": 63,
+      "temperature": 22.39999962,
+      "timestamp": 191196,
+      "id": 42
+    },
+    {
+      "humidity": 62,
+      "temperature": 22.39999962,
+      "timestamp": 206289,
+      "id": 43
+    }
+  ]
+}
